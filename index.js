@@ -1,0 +1,1 @@
+const desc = "essai JS"
