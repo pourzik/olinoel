@@ -1,0 +1,13 @@
+
+Établir les connexions
+Paramétrer le clavier KeyLab pour l’utiliser avec Analog Lab est simple et rapide :
+
+1) Installez le programme Analog Lab sur votre ordinateur et assurez vous de
+l’enregistrer et de l’autoriser correctement. (Se reporter aux Chapitres 2 et 3
+de manuel d’utilisation d’Analog Lab).
+2) Connectez le clavier KeyLab à l’ordinateur. Le KeyLab est alimenté par
+connexion USB ; il vous suffit donc de connecter le câble USB du KeyLab à
+votre ordinateur.
+3) Le KeyLab est un dispositif USB natif, son driver sera automatiquement
+installé lorsque vous connectez le KeyLab à votre ordinateur.
+4) Lancez le logiciel d’Analog Lab et poursuivez la lecture!
