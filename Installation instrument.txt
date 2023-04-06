@@ -11,3 +11,5 @@ votre ordinateur.
 3) Le KeyLab est un dispositif USB natif, son driver sera automatiquement
 installé lorsque vous connectez le KeyLab à votre ordinateur.
 4) Lancez le logiciel d’Analog Lab et poursuivez la lecture!
+
+profiter de votre instument
